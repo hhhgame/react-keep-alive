@@ -1,6 +1,6 @@
 {
   "name": "@hhhgamehhh/react-keep-alive",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Package will allow components to maintain their status, to avoid repeated re-rendering.",
   "author": "hhhgamehhh",
   "homepage": "",
