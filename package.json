@@ -1,9 +1,9 @@
 {
-  "name": "react-keep-alive",
-  "version": "2.5.2",
+  "name": "@hhhgamehhh/react-keep-alive",
+  "version": "1.0.0",
   "description": "Package will allow components to maintain their status, to avoid repeated re-rendering.",
-  "author": "Shen Chang",
-  "homepage": "https://github.com/StructureBuilder/react-keep-alive",
+  "author": "hhhgamehhh",
+  "homepage": "",
   "keywords": [
     "react",
     "react-router",
@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StructureBuilder/react-keep-alive.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/StructureBuilder/react-keep-alive/issues"
+    "url": ""
   },
   "main": "cjs/index.js",
   "module": "es/index.js",
